@@ -2,9 +2,6 @@
 
 Official PyTorch implementation of "**Fine Gaze Redirection Learning with Gaze Hardness-aware Transformation**"
 
-(Full source code will be updated later...)
-
-
 ## 1. Requirements
 ### Environments
 
@@ -12,4 +9,3 @@ Official PyTorch implementation of "**Fine Gaze Redirection Learning with Gaze H
 
 ## 2. Training & Evaluation
 
-## 3. Results
